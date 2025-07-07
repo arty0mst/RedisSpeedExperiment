@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedisSpeedExperiment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+574dc86b6d8ba0703bde2017b26be061adcb2b8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedisSpeedExperiment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedisSpeedExperiment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

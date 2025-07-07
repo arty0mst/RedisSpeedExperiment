@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uMyA45dROlNh5l5ijohesNYXhADSDI7Ti78V01mLoMo=",
+  "Source": "RedisSpeedExperiment",
+  "BasePath": "_content/RedisSpeedExperiment",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
